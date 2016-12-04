@@ -1,0 +1,2 @@
+# Oscope
+Read analog inputs
